@@ -1,4 +1,4 @@
-# Segmentation: Kvasir Endoscopy instrument:
+
 This 
 Here is the kaggle notebook: https://www.kaggle.com/sumitai/segmentation-unet/notebook
 ### Libraries:
