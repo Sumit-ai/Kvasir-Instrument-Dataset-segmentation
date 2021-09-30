@@ -22,3 +22,10 @@ import keras
 
 ### Models used: 
 In this work I used UNet segmentation. 
+
+### Results:
+``` python
+Train DSC: 0.831
+Test DSC: 0.767
+Validation DSC: 0.767
+```
