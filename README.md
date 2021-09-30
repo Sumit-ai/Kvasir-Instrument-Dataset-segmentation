@@ -20,3 +20,5 @@ import keras
 
 ```
 
+### Models used: 
+In this work I used UNet segmentation. 
