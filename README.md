@@ -1,5 +1,5 @@
 
-# Kvasir Instrument Segmentation Using UNet
+
 `Author: Sumit Pandey (CGMH Taiwan) Dr. Arvind Keprate (Oslo Metropolitan University, Norway)`
 
 Here is the kaggle notebook: https://www.kaggle.com/sumitai/segmentation-unet/notebook
