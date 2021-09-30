@@ -29,3 +29,4 @@ Train DSC: 0.831
 Test DSC: 0.767
 Validation DSC: 0.767
 ```
+<img align="center" src="result.png" width="500" />
