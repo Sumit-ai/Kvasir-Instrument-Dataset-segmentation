@@ -32,4 +32,5 @@ Test DSC: 0.767
 ##### here are the prediction results on testing dataset. 
 
 <img align="center" src="result.png" width="500" />
-**Note:** Please check the .csv files attached in ```DSC_train_test_valid``` folder to check the individual DSC of every image in training, testing and validation folder.  
+
+**Note:** Please check the .csv files attached in `DSC_train_test_valid` folder to check the individual DSC of every image in training, testing and validation folder.  
