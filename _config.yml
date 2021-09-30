@@ -1,0 +1,9 @@
+# basic options
+title: Kvasir Endoscopy Instrument
+author: Sumit Pandey 
+email: sumit.ai.sci@gmail.com
+github_username:  Sumit-ai
+
+# Build settings
+markdown: kramdown
+theme: minima
