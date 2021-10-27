@@ -31,7 +31,7 @@ Train DSC: 0.831
 Validation DSC: 0.80
 Test DSC: 0.767
 ```
-##### here are the prediction results on testing dataset. 
+##### here are the sample prediction results on testing dataset. 
 
 <img align="center" src="result.png" width="500" />
 
